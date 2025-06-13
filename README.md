@@ -61,7 +61,7 @@ This Power BI project presents a comprehensive analysis of global sales, discoun
 ## 📁 Project File
 
 📎 Download the Power BI project file here:  
-[`Sales&Profit_Analysis.pbix`](./Sales_and_Profit_Analysis.pbix)
+[`Sales_and_Profit_Analysis.pbix`](./Sales_and_Profit_Analysis.pbix)
 
 ---
 
